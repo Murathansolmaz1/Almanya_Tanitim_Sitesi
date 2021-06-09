@@ -2,7 +2,7 @@
 
 [Siteye gitmek için tıklayınız.](http://almanya.epizy.com/)
 
-<img src = "ss1.png" width = "50%" height = "50%">
+<img src = "ss1.png">
 
 
 
